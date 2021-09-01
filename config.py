@@ -42,11 +42,11 @@ admin = {
 # 账号设置
 account = [
     {
-        "mobile": "16625505637",
-        "password": "123456cjfcs",
-        "mail": "1183510200@qq.com",
+        "mobile": "",
+        "password": "",
+        "mail": "",
         "pushToken": "",
-        "notice": "local"
+        "notice": ""
     }
 ]
 
